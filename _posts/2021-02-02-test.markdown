@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "This is test!"
 date:   2021-02-02 23:47:00 +0000
 categories: blog 
